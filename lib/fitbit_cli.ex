@@ -1,0 +1,2 @@
+defmodule FitbitCli do
+end
